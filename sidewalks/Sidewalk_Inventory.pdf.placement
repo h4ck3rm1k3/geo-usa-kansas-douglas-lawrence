@@ -1,0 +1,11 @@
+#PDF file placement on OSM
+#Thu Mar 13 10:24:40 CDT 2014
+maxY=39002.5999
+maxX=-95177.6294
+maxNorth=10000.0
+minY=38914.74249385936
+minX=-95332.46321518697
+minNorth=0.0
+Projection=EPSG\:4326
+maxEast=10000.0
+minEast=0.0
