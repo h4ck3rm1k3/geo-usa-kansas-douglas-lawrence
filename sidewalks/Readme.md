@@ -19,7 +19,17 @@ http://mapwarper.net/maps/2784#Preview_Map_tab
 Tagging 
 =======
 
-condition=good,fair,poor,unsatisfatory
-highway=footway
-surface=concrete
-source=official_city
+* condition
+  * good
+  * fair
+  * poor
+  * unsatisfatory
+
+* highway
+  footway
+
+* surface
+  concrete
+
+* source
+  official_city
